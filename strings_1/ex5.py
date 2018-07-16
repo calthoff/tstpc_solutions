@@ -1,4 +1,3 @@
-fox = ["The", "fox", "jumped", "over", "the", "fence", "."]
-fox = " ".join(fox)
-fox = fox[0: -2] + "."
-print(fox)
+sentence = "A screaming comes across the sky."
+sentence = sentence.replace("s", "$")
+print(sentence)

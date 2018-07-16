@@ -1,3 +1,2 @@
-sentence = "A screaming comes across the sky."
-sentence = sentence.replace("s", "$")
-print(sentence)
+first_index = "Hemingway".index("H")
+print(first_index)
