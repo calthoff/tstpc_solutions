@@ -1,0 +1,8 @@
+Musicians = ["Bob Marley","2pac","Lucky Dube",'Chris Martin","Chuck Berry"]
+    print ("musicians")
+    
+musicians [4] = "John Lennon"  
+
+musicians.append ("Gary Lightbody")
+    print ("new musicians")
+    
